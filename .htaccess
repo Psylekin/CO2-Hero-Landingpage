@@ -1,1 +1,3 @@
 RewriteEngine On
+RewriteRule ^studie https://www.soscisurvey.de/klima-app-befragung/?q=pre [R=302]
+RewriteRule ^studie/ https://www.soscisurvey.de/klima-app-befragung/?q=pre [R=302]
