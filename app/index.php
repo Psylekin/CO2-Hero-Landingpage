@@ -15,7 +15,7 @@ if($ref) {
 	]);
 }
 
-header('Location: https://www.subscribepage.com/e7c7n2');
+header('Location: https://www.subscribepage.com/klimapunks');
 exit;
 
 ?>
